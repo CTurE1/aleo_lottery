@@ -1,0 +1,15 @@
+[buy_ticket]
+participantAddress: address = aleo1593eszedn3kp4ansaw7vrruqym6tqcywtc2ly5yq5gd2gg9d5qpq5hf26k;
+amount: u64 = 0u64;
+old_lottery_state: lottery_state = lottery_state {
+    owner: aleo1593eszedn3kp4ansaw7vrruqym6tqcywtc2ly5yq5gd2gg9d5qpq5hf26k,
+    total_amount: 10u64,
+    participants_amount: 1u64
+};
+
+[finish]
+old_lottery_state: lottery_state = lottery_state {
+    owner: aleo1593eszedn3kp4ansaw7vrruqym6tqcywtc2ly5yq5gd2gg9d5qpq5hf26k,
+    total_amount: 20u64,
+    participants_amount: 2u64
+};
