@@ -6,6 +6,8 @@
 [![Discord: @vadimwright](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](@vadimwright)
 [![Me on Telegram](https://img.shields.io/badge/Telegram-%235865F2.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vadim_Wright)
 
+## Discord - vadimwright
+
 ## Introduction
 
 The "Wright Lottery" smart contract is designed to facilitate a lottery system on the Aleo blockchain platform. This contract allows participants to buy tickets, accumulate funds in the lottery pool, and eventually determine a winner. Below, we provide a professional README explaining the contract's structure and functions.
