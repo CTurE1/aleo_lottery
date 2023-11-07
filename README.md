@@ -6,7 +6,7 @@
 [![Discord: @vadimwright](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](@vadimwright)
 [![Me on Telegram](https://img.shields.io/badge/Telegram-%235865F2.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vadim_Wright)
 
-## Discord - vadimwright
+# Discord - vadimwright
 
 ## Introduction
 
